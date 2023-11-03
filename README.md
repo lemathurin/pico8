@@ -1,1 +1,18 @@
-# projet-collectif-pico8-daniela-mehdi-mathurin
+# Projet Collectif - Pico-8
+### Mehdi, Daniela, Mathurin
+
+<p align="center">
+  <img src='./images/loading screen.png' width=550>
+</p>
+
+It's not entirely finished, but it's good enough for now. 
+
+<p align="center">
+  <img src='./images/menu.png' width=550>
+</p>
+
+Enjoy!
+
+<p align="center">
+  <img src='./images/game.png' width=550>
+</p>
